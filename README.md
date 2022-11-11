@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-####HTML
+###HTML
 
 ```html
 <!DOCTYPE html>
@@ -33,7 +33,7 @@ N/A
 <script src="./assets/script.js"></script>
 ```
 
-####CSS
+###CSS
 
 ```css
 .selector,
@@ -42,7 +42,7 @@ N/A
 }
 ```
 
-####JavaScript
+###JavaScript
 
 ```js
 
